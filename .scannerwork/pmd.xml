@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="pmd">
+  <description>Sonar Profile: pmd</description>
+  <rule ref="category/java/codestyle.xml/AvoidUsingNativeCode">
+    <priority>3</priority>
+  </rule>
+</ruleset>
+

@@ -1,0 +1,10 @@
+monitor_aggregation	-	common		-	common_5-0-0b106.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+monitor_aggregation	-	dbunit		-	dbunit-2.1.jar		-	vobs/eniq_3pp/dbunit/dbunit/v21/prod
+monitor_aggregation	-	dbunit		-	dbunit-2.1_dc.jar	-	vobs/eniq_3pp/dbunit/dbunit/v21/prod
+monitor_aggregation	-	engine		-	engine_5-0-0b297.jar	-	vobs/eniq_design/plat/etl_controller/build/engine
+monitor_aggregation	-	junit		-	junit.jar		-	Nothing in the 3pp for this!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+monitor_aggregation	-	log4j		-	log4j-1.2.13.jar	-	vobs/eniq_3pp/apache/log4j/v1211/prod
+monitor_aggregation	-	repository	-	repository_5-0-0b131.jar	-	vobs/eniq_design/plat/installer/build/repository
+monitor_aggregation	-	scheduler	-	scheduler_5-0-0b36.jar		-	vobs/eniq_design/plat/etl_controller/build/scheduler
+monitor_aggregation	-	testhelper	-	testhelper_5-0-0b14.jar		-	Is this needed??????????????????????????????????????????????????
+monitor_aggregation	-	velocity	-	velocity-dep-1.2.jar	-	vobs/eniq_3pp/apache/jakarta_velocity/v12/prod

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.40">
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/distocraft/dc5000/etl/monitoring/ManualReAggregationAction.java">
+</file>
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/distocraft/dc5000/etl/monitoring/AggregationAction.java">
+</file>
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/ericsson/etl/monitoring/aggregation/EventDrivenAggregatorNomination.java">
+</file>
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/distocraft/dc5000/etl/monitoring/AutomaticReAggregationAction.java">
+</file>
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/distocraft/dc5000/etl/monitoring/AutomaticAggregationAction.java">
+</file>
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/distocraft/dc5000/etl/monitoring/AggregationGroupingAction.java">
+</file>
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/distocraft/dc5000/etl/monitoring/BatchUpdateMonitoringAction.java">
+</file>
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/distocraft/dc5000/etl/monitoring/ReAggregation.java">
+</file>
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/distocraft/dc5000/etl/monitoring/UpdateMonitoringAction.java">
+</file>
+<file name="/proj/eiffel013_config_fem6s11/eiffel_home/jobs/Git_monitoring_build/monitoring_aggregation/dev/src/com/distocraft/dc5000/etl/monitoring/SystemMonitorAction.java">
+</file>
+</checkstyle>

@@ -1,0 +1,1 @@
+System monitor $!{systemMonitor} at host $!{systemMonitorHost} changed status from "$!{oldSystemMonitorStatus}" to "$!{newSystemMonitorStatus}" at $!{systemMonitorExecuted}.
